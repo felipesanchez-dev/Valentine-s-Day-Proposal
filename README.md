@@ -13,7 +13,7 @@
 ## About the project
 This project combines HTML, CSS and JavaScript to create a dynamic and fun experience. It works by presenting questions with two options: "Yes" and "No." Each time "No" is selected, the button content changes interactively. At the same time, the "Yes" button increases in size with each click, adding an extra touch of interactivity and fun.
 
-![Project](https://raw.githubusercontent.com/felipesanchez-dev/Valentine-s-Day-Proposal/main/Gif.gif)
+![Project](https://raw.githubusercontent.com/felipesanchez-dev/Valentine-s-Day-Proposal/main/February14th-dev/asset/img/Gif.gif)
 
 
 
